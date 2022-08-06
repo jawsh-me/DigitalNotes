@@ -1,0 +1,29 @@
+Digital version of my handwritten notes from designing my "pink" .zshrc file. 
+
+%	Escape
+%1	TTY
+
+%!	History#
+
+%M	Full Hostname
+%m	Hostname
+%n	Username
+%#	Shell Marker (#/%)
+%~	Dir
+&T	24hr Time
+
+%F{#}	FG Color
+%f	End FG Color
+%K	BG Color
+%k	End BG Color
+
+%W	mm/dd/yy
+%w	DoW dd (Mon 18)
+
+%D{Str}	Time string
+	%A	Full Day of Week
+	$B	Full Month
+	%d	Day of month
+	%H	24hr hour
+	%M	Minute
+	%R	24hr hour+minute
